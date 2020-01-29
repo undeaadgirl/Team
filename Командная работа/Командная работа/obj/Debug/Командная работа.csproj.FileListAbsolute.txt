@@ -1,0 +1,15 @@
+C:\Users\undead\source\repos\Командная работа\Командная работа\bin\Debug\Командная работа.exe.config
+C:\Users\undead\source\repos\Командная работа\Командная работа\bin\Debug\Командная работа.exe
+C:\Users\undead\source\repos\Командная работа\Командная работа\bin\Debug\Командная работа.pdb
+C:\Users\undead\source\repos\Командная работа\Командная работа\obj\Debug\Командная работа.csprojAssemblyReference.cache
+C:\Users\undead\source\repos\Командная работа\Командная работа\obj\Debug\Командная_работа.Form1.resources
+C:\Users\undead\source\repos\Командная работа\Командная работа\obj\Debug\Командная_работа.Properties.Resources.resources
+C:\Users\undead\source\repos\Командная работа\Командная работа\obj\Debug\Командная_работа.Savef.resources
+C:\Users\undead\source\repos\Командная работа\Командная работа\obj\Debug\Командная работа.csproj.GenerateResource.cache
+C:\Users\undead\source\repos\Командная работа\Командная работа\obj\Debug\Командная работа.csproj.CoreCompileInputs.cache
+C:\Users\undead\source\repos\Командная работа\Командная работа\obj\Debug\Командная работа.exe
+C:\Users\undead\source\repos\Командная работа\Командная работа\obj\Debug\Командная работа.pdb
+C:\Users\undead\source\repos\Командная работа\Командная работа\obj\Debug\Командная_работа.download.resources
+C:\КОЛЛЕДЖ\Колледж\4 курс\ТРПО\Team\Командная работа\Командная работа\obj\Debug\Командная работа.csprojAssemblyReference.cache
+C:\КОЛЛЕДЖ\Колледж\4 курс\ТРПО\Team\Командная работа\Командная работа\obj\Debug\Командная работа.exe
+C:\КОЛЛЕДЖ\Колледж\4 курс\ТРПО\Team\Командная работа\Командная работа\obj\Debug\Командная работа.pdb
